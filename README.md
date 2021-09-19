@@ -21,7 +21,7 @@ rubik是一款基于luci-theme-opentopd构建,使用HTML5、CSS3编写的Luci主
 	# 找到 LuCI -> Themes, 选择 luci-theme-opentopd, 保存后退出。
  ``` 
 ============================
-欢迎除[骷髅头](https://github.com/DHDAXCW)以外的人随意使用其中的源码，但请注明出处。
+欢迎使用其中的源码，但请注明出处。
 ============================
 
 # My other project
