@@ -3,7 +3,7 @@ rubik是一款基于luci-theme-opentopd构建,使用HTML5、CSS3编写的Luci主
 
 ## 写在前面：
 
-    这个主题是为[RubikWrt](https://github.com/thomaswcy)专门设计的，也可以用于LuCI18的其他任何OpenWrt/LEDE
+这个主题是为[RubikWrt](https://github.com/thomaswcy)专门设计的，也可以用于LuCI18的其他任何OpenWrt/LEDE
 
 ## 编译说明
 
